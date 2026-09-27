@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1790537870049",
+    "name": "gaming mouse",
+    "price": "1200",
+    "description": "perfect for league of legends",
+    "imagePath": "uploads\\1790539704203-basiliskv3_button-config_CSGO.jpg"
+  },
+  {
+    "id": "1790539205627",
+    "name": "gaming keyboard",
+    "price": "2000",
+    "description": "perfect for league of legends",
+    "imagePath": "uploads\\1790539205617-OIP (2).webp"
+  }
+]
